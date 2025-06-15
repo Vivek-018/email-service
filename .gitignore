@@ -1,0 +1,4 @@
+node_modules
+email-service-credentials.json
+.env
+services/mailerService.js
