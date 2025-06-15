@@ -22,7 +22,7 @@ A Node.js microservice for sending emails using Brevo (formerly Sendinblue) and 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/email-service.git
+git clone https://github.com/Vivek-018/email-service.git
 cd email-service
 ```
 
